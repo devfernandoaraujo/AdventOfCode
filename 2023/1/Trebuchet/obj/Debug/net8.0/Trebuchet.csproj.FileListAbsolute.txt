@@ -1,0 +1,14 @@
+G:\Projetos Treino\AdventOfCode\2023\1\Trebuchet\bin\Debug\net8.0\Trebuchet.exe
+G:\Projetos Treino\AdventOfCode\2023\1\Trebuchet\bin\Debug\net8.0\Trebuchet.deps.json
+G:\Projetos Treino\AdventOfCode\2023\1\Trebuchet\bin\Debug\net8.0\Trebuchet.runtimeconfig.json
+G:\Projetos Treino\AdventOfCode\2023\1\Trebuchet\bin\Debug\net8.0\Trebuchet.dll
+G:\Projetos Treino\AdventOfCode\2023\1\Trebuchet\bin\Debug\net8.0\Trebuchet.pdb
+G:\Projetos Treino\AdventOfCode\2023\1\Trebuchet\obj\Debug\net8.0\Trebuchet.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projetos Treino\AdventOfCode\2023\1\Trebuchet\obj\Debug\net8.0\Trebuchet.AssemblyInfoInputs.cache
+G:\Projetos Treino\AdventOfCode\2023\1\Trebuchet\obj\Debug\net8.0\Trebuchet.AssemblyInfo.cs
+G:\Projetos Treino\AdventOfCode\2023\1\Trebuchet\obj\Debug\net8.0\Trebuchet.csproj.CoreCompileInputs.cache
+G:\Projetos Treino\AdventOfCode\2023\1\Trebuchet\obj\Debug\net8.0\Trebuchet.dll
+G:\Projetos Treino\AdventOfCode\2023\1\Trebuchet\obj\Debug\net8.0\refint\Trebuchet.dll
+G:\Projetos Treino\AdventOfCode\2023\1\Trebuchet\obj\Debug\net8.0\Trebuchet.pdb
+G:\Projetos Treino\AdventOfCode\2023\1\Trebuchet\obj\Debug\net8.0\Trebuchet.genruntimeconfig.cache
+G:\Projetos Treino\AdventOfCode\2023\1\Trebuchet\obj\Debug\net8.0\ref\Trebuchet.dll
