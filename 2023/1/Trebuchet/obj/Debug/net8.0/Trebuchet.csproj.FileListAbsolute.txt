@@ -12,3 +12,4 @@ G:\Projetos Treino\AdventOfCode\2023\1\Trebuchet\obj\Debug\net8.0\refint\Trebuch
 G:\Projetos Treino\AdventOfCode\2023\1\Trebuchet\obj\Debug\net8.0\Trebuchet.pdb
 G:\Projetos Treino\AdventOfCode\2023\1\Trebuchet\obj\Debug\net8.0\Trebuchet.genruntimeconfig.cache
 G:\Projetos Treino\AdventOfCode\2023\1\Trebuchet\obj\Debug\net8.0\ref\Trebuchet.dll
+g:\Projetos Treino\AdventOfCode\2023\1\Trebuchet\obj\Debug\net8.0\Trebuchet.sourcelink.json

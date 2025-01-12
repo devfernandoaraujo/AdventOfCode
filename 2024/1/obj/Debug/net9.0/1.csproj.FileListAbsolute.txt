@@ -1,0 +1,15 @@
+G:\Projetos Treino\AdventOfCode\2024\1\bin\Debug\net9.0\1.exe
+G:\Projetos Treino\AdventOfCode\2024\1\bin\Debug\net9.0\1.deps.json
+G:\Projetos Treino\AdventOfCode\2024\1\bin\Debug\net9.0\1.runtimeconfig.json
+G:\Projetos Treino\AdventOfCode\2024\1\bin\Debug\net9.0\1.dll
+G:\Projetos Treino\AdventOfCode\2024\1\bin\Debug\net9.0\1.pdb
+G:\Projetos Treino\AdventOfCode\2024\1\obj\Debug\net9.0\1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projetos Treino\AdventOfCode\2024\1\obj\Debug\net9.0\1.AssemblyInfoInputs.cache
+G:\Projetos Treino\AdventOfCode\2024\1\obj\Debug\net9.0\1.AssemblyInfo.cs
+G:\Projetos Treino\AdventOfCode\2024\1\obj\Debug\net9.0\1.csproj.CoreCompileInputs.cache
+G:\Projetos Treino\AdventOfCode\2024\1\obj\Debug\net9.0\1.sourcelink.json
+G:\Projetos Treino\AdventOfCode\2024\1\obj\Debug\net9.0\1.dll
+G:\Projetos Treino\AdventOfCode\2024\1\obj\Debug\net9.0\refint\1.dll
+G:\Projetos Treino\AdventOfCode\2024\1\obj\Debug\net9.0\1.pdb
+G:\Projetos Treino\AdventOfCode\2024\1\obj\Debug\net9.0\1.genruntimeconfig.cache
+G:\Projetos Treino\AdventOfCode\2024\1\obj\Debug\net9.0\ref\1.dll
