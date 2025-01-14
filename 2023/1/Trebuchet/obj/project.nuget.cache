@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "zeJ1rAkHggo=",
+  "dgSpecHash": "8pdvmm4xX+w=",
   "success": true,
-  "projectFilePath": "g:\\Projetos Treino\\AdventOfCode\\2023\\1\\Trebuchet\\Trebuchet.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Projetos Treino\\AdventOfCode\\2023\\1\\Trebuchet\\Trebuchet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fernando\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\fernando\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\fernando\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\fernando\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.11\\microsoft.netcore.app.host.win-x64.8.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

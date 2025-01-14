@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Trebuchet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df324b9626c223beaa6b7173bc3ced235b9a3f36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22b82ce6d7f761a23ecc80fcd1320ef3cbf26870")]
 [assembly: System.Reflection.AssemblyProductAttribute("Trebuchet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Trebuchet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
